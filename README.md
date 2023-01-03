@@ -13,6 +13,8 @@ A sudoku solver for Intro to AI course project.
 
 `collectdata.py` module contains functions that solve all the puzzles in a dataset, record the time taken to solve the puzzles and store them in a `.csv` file.
 
+`sudoku.ipynb` is created from a colab notebook which was used for CNN's approach. 
+
 ### `dataset` folder
 
 Contains the datasets used to test run the program.
@@ -190,5 +192,6 @@ The collected data is written in a `.csv` file in the `collected_data` folder.
 + https://github.com/MaximeDaigle/sudoku
 + https://norvig.com/sudoku.html
 + https://www.sudocue.net/features.php
++ https://www.kaggle.com/code/lyly123/solve-sudoku-with-cnn-acc-97
 
 
